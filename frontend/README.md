@@ -90,17 +90,3 @@ This project uses Tailwind CSS for styling. The configuration includes:
 The app is built with responsive design using Tailwind CSS breakpoints.
 
 
-## 📦 Deployment
-
-Build the application for production:
-
-```bash
-npm run build
-```
-## 📦 Deployment Link
-
-Build the application for production:
-
-```bash
-https://cuppie-cake.vercel.app/3d-interactive-homepage
-```
